@@ -1,0 +1,8 @@
+An attempt at doing headtracking with VTK and OpenNI
+
+Dependencies:
+
+OpenNI
+SensorKinect
+NITE
+VTK
